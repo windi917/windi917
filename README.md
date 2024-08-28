@@ -36,13 +36,6 @@ I am a passionate **Blockchain Developer** with a deep interest in building dece
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 Feel free to explore my repositories and get in touch if you’d like to collaborate or chat about the future of blockchain!
 
 ---
