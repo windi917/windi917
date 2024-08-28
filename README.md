@@ -1,5 +1,4 @@
 <!-- Header Image -->
-![Header Image](bafybeibvaxublkx6o2asmsxohochg2wia3cxzcnpta5n574yst3udz77qy.ipfs.nftstorage.link/14230.png)
 
 # Hi there, I'm Windi 👋
 
