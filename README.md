@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Header Image -->
+![Header Image](https://raw.githubusercontent.com/yourusername/yourusername/main/header.png)
 
-<!--
-**windi917/windi917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Windi 👋
 
-Here are some ideas to get you started:
+I am a passionate **Blockchain Developer** with a deep interest in building decentralized applications, smart contracts, and exploring the latest innovations in the world of Web3. I enjoy creating secure, scalable, and efficient blockchain solutions to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently working on: Trading Bot(#) - Margine trading with hyperliquid, meteora, etc.
+- 🧑‍💻 Open for: Smart contract audits, DApp development, and blockchain consulting.
+- 📚 Learning more about zero-knowledge proofs and scaling solutions like zk-rollups.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🔗 Blockchain Platforms
+- Ethereum / Solana / Solidity / Hardhat / Truffle
+- Binance Smart Chain / Polygon / Avalanche
+- Hyperledger Fabric / Corda
+
+### 💻 Programming Languages
+- **Solidity**, **Rust** (Solana), **Go**, **JavaScript** (Node.js)
+- Familiar with: Python, TypeScript, C++
+
+### 🧰 Tools & Technologies
+- **Smart Contract Development**: Remix, Hardhat, Truffle, OpenZeppelin
+- **Testing & QA**: Mocha, Chai, Ganache
+- **Frontend Development**: React, Next.js, Web3.js, Ethers.js
+- **Version Control**: Git, GitHub Actions, CI/CD Pipelines
+- **Databases**: IPFS, The Graph, MongoDB
+
+### 🔐 Security Expertise
+- Smart Contract Auditing
+- Vulnerability Assessment (Reentrancy, Overflow/Underflow, etc.)
+- Best Practices in Secure Smart Contract Development
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+Feel free to explore my repositories and get in touch if you’d like to collaborate or chat about the future of blockchain!
+
+---
+
+⭐️ From [windi917](https://github.com/windi917)
