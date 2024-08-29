@@ -40,3 +40,5 @@ Feel free to explore my repositories and get in touch if you’d like to collabo
 ---
 
 ⭐️ From [windi917](https://github.com/windi917)
+
+![Custom Achievement](https://img.shields.io/badge/Achievement-Coding%20Master-blue?style=for-the-badge&logo=github)
